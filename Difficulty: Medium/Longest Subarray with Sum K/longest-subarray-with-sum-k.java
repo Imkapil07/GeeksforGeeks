@@ -31,6 +31,7 @@ class Main {
 
 // User function Template for Java
 
+
 class Solution {
     public int longestSubarray(int[] arr, int k) {
         int n = arr.length;
@@ -60,3 +61,4 @@ class Solution {
         return maxLen;
     }
 }
+
